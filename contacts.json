@@ -1,0 +1,27 @@
+[
+    {
+        "full_name": "Michael Jackson",
+        "phone_number": "18008008000",
+        "email_address": "mj@gmail.com"
+    },
+    {
+        "full_name": "Kevin Durant",
+        "phone_number": "18005555555",
+        "email_address": "kd@gmail.com"
+    },
+    {
+        "full_name": "Abraham Lincoln",
+        "phone_number": "18001111111",
+        "email_address": "al@gmail.com"
+    },
+    {
+        "full_name": "Jimmy Smith",
+        "phone_number": "18009001000",
+        "email_address": "js@gmail.com"
+    },
+    {
+        "full_name": "Steve Goldberg",
+        "phone_number": "18001234567",
+        "email_address": "sg@gmail.com"
+    }
+]
